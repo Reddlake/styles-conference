@@ -24,6 +24,7 @@ h5 {
     color: #a9b2b9;
     font-size: 14px;
     font-weight: 400;
+    text-transform: uppercase;
 }
 strong {
     font-weight: 400;
@@ -33,10 +34,13 @@ cite, em {
 }
 .tagline {
     margin:66px 0 22px 0;
+    text-align: right;
 }
 .primary-nav {
     font-size: 14px;
     font-weight: 400;
+    letter-spacing: .5px;
+    text-transform: uppercase;
 }
 .teaser a:hover h3 {
     color: #a9b2b9;
@@ -50,6 +54,10 @@ a:hover {
 }
 a {
     color: #648880;
+    text-decoration: none;
+}
+p a {
+    border-bottom: 1px solid #dfe2e5;
 }
 
 /* Grid */
