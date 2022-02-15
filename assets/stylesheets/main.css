@@ -31,6 +31,9 @@ strong {
 cite, em {
     font-style: italic;
 }
+.tagline {
+    margin:66px 0 22px 0;
+}
 
 /* Links */
 
